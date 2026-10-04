@@ -2,6 +2,8 @@
 
 # EchoLine
 
+**Source available for noncommercial use. Commercial use requires separate written permission.**
+
 An English reading and practice app for macOS. Save sentences from what you read, explore their meaning, and come back to them through listening, shadowing, and typing practice.
 
 EchoLine is built with SwiftUI and AppKit. The interface and learning explanations are primarily in Chinese.
@@ -66,4 +68,10 @@ Bug reports and focused pull requests are welcome. For a bug, include your macOS
 
 ## License
 
-MIT. See [LICENSE](LICENSE).
+EchoLine is licensed under [PolyForm Noncommercial 1.0.0](LICENSE).
+
+You may use, modify, and share the software for purposes permitted by that license, including personal learning and noncommercial research. Commercial use, including selling the app, incorporating it into a commercial product, or offering a commercial service based on it, requires a separate written license from the author. Contact [jcx981212@163.com](mailto:jcx981212@163.com) to request one.
+
+Keep the license and [required notices](NOTICE) with redistributed copies. Contributions must be offered under the same license unless separately agreed in writing.
+
+The source is publicly available with a noncommercial restriction; it is not offered under an unrestricted open-source license.
